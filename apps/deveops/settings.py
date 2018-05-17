@@ -2,6 +2,7 @@
 # !/usr/bin/env python
 # Time 09 13:49
 # Author Yo
+#update by chunk  201801517
 # Email YoLoveLife@outlook.com
 """
 Django settings for devEops project.
